@@ -51,3 +51,8 @@ div {
 .color-red{
     color: red;
 }
+
+pre{
+    font-size: 4rem;
+    color: blue;
+}
